@@ -1,8 +1,8 @@
 # Go Feature Toggle
-[![Build Status](https://travis-ci.org/Piszmog/cloudconfigclient.svg?branch=develop)](https://travis-ci.org/Piszmog/gotoggle)
-[![Coverage Status](https://coveralls.io/repos/github/Piszmog/cloudconfigclient/badge.svg?branch=develop)](https://coveralls.io/github/Piszmog/gotoggle?branch=develop)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Piszmog/cloudconfigclient)](https://goreportcard.com/report/github.com/Piszmog/gotoggle)
-[![GitHub release](https://img.shields.io/github/release/Piszmog/cloudconfigclient.svg)](https://github.com/Piszmog/gotoggle/releases/latest)
+[![Build Status](https://travis-ci.org/Piszmog/gotoggle.svg?branch=develop)](https://travis-ci.org/Piszmog/gotoggle)
+[![Coverage Status](https://coveralls.io/repos/github/Piszmog/gotoggle/badge.svg?branch=develop)](https://coveralls.io/github/Piszmog/gotoggle?branch=develop)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Piszmog/gotoggle)](https://goreportcard.com/report/github.com/Piszmog/gotoggle)
+[![GitHub release](https://img.shields.io/github/release/Piszmog/gotoggle.svg)](https://github.com/Piszmog/gotoggle/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is a simple package for using feature toggles in Go.
